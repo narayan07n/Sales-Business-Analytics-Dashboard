@@ -1,6 +1,6 @@
 # 📊 Sales & Business Analytics Dashboard – Power BI
 
-![Sales & Business Analytics Dashboard]().
+![Sales & Business Analytics Dashboard](https://github.com/narayan07n/Sales-Business-Analytics-Dashboard/blob/main/Screenshot%202026-10-07%20183007.png?raw=true)
 
 ## 📌 Project Overview
 
