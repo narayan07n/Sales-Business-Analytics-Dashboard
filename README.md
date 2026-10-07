@@ -1,6 +1,6 @@
 # 📊 Sales & Business Analytics Dashboard – Power BI
 
-![Sales & Business Analytics Dashboard]()
+![Sales & Business Analytics Dashboard]().
 
 ## 📌 Project Overview
 
